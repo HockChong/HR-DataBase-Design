@@ -1,5 +1,5 @@
 ## Project Overview
-In this project, you will design, build, and populate a database for the Human Resources (HR) Department at the imaginary Tech ABC Corp, a video game company. This project will start with a request from the HR Manager. From there, you will need to design a database using the foundational principals of data architecture that is best suited to the department's needs. You will go through the steps of database architecture, creating database proposals, database entity relationship diagrams (ERD), and finally creating the database itself. This project is important, as it is a scaled-down simulation of the kind of real-world assignments data architects work on every day.
+In this project, I will design, build, and populate a database for the Human Resources (HR) Department at the imaginary Tech ABC Corp, a video game company. This project will start with a request from the HR Manager. From there, I will need to design a database using the foundational principals of data architecture that is best suited to the department's needs. I will go through the steps of database architecture, creating database proposals, database entity relationship diagrams (ERD), and finally creating the database itself.
 
 ## Business Scenario
 Business requirement
@@ -8,4 +8,4 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 As such, the HR department has tasked you, as the new data architect, to design and build a database capable of managing their employee information.
 
 ## Dataset
-The HR dataset(opens in a new tab) you will be working with is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and has not been normalized at all. The data lists the names of employees at Tech ABC Corp, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
+The HR dataset is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and has not been normalized at all. The data lists the names of employees at Tech ABC Corp, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
