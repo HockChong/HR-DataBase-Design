@@ -11,6 +11,7 @@ As such, the HR department has tasked you, as the new data architect, to design 
 The HR dataset is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and has not been normalized at all. The data lists the names of employees at Tech ABC Corp, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
 ## Solution
+Refer [ppt](https://github.com/HockChong/Human-Resources-Database-Design/blob/main/Tech%20ABC%20Corp%20-%20HR%20Database.pdf)
 ### Step 1 : Data Architecture Foundations
 ### Step 2 : Relation Database Design
 ### Step 3 : Create a Physical Database
