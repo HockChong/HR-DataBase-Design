@@ -14,5 +14,14 @@ The HR dataset is an Excel workbook consisting of 206 records, with eleven colum
 Refer [ppt](https://github.com/HockChong/Human-Resources-Database-Design/blob/main/Tech%20ABC%20Corp%20-%20HR%20Database.pdf)
 ### Step 1 : Data Architecture Foundations
 ### Step 2 : Relation Database Design
+- Conceptual ERD
+- <img width="371" alt="image" src="https://github.com/HockChong/Human-Resources-Database-Design/assets/64703507/b046d9a2-7161-4ad6-af1a-f468386994e7">
+
+- Logical ERD
+- <img width="389" alt="image" src="https://github.com/HockChong/Human-Resources-Database-Design/assets/64703507/69df1281-fbb2-4f26-bfc0-b1811a7ed50a">
+
+- Physical ERD
+- <img width="566" alt="image" src="https://github.com/HockChong/Human-Resources-Database-Design/assets/64703507/fc4ea8e2-971d-40c1-b166-309fd5488547">
+
 ### Step 3 : Create a Physical Database
 ### Step 4 : Above & Beyond(Optional)
