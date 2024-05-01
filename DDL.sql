@@ -1,4 +1,24 @@
---CREATE TABLE 
+-- CREATE STAGING TABLE 
+CREATE TABLE IF NOT EXISTS proj_stg (
+Emp_ID VARCHAR(8),
+Emp_NM VARCHAR(50),
+Email  VARCHAR(100),
+hire_dt date,
+job_title VARCHAR(100),
+salary INT,
+department_nm VARCHAR(50),
+manager VARCHAR(50),
+start_dt date,
+end_dt date,
+location VARCHAR(50),
+address VARCHAR(100),
+city VARCHAR(50),
+State VARCHAR(2),
+education_lvl VARCHAR(50));
+
+
+
+--CREATE TABLE BASED ON PHYSICAL ERD
 CREATE TABLE IF NOT EXISTS Occupation (
 job_id SERIAL PRIMARY KEY,
 job_title VARCHAR(100));
